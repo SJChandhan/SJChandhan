@@ -1,8 +1,8 @@
-- 👋 Hi, I’m S J Chandhan
+- 👋 Hi all, I’m S J Chandhan
 - 👀 I’m interested in Oracle Database, GoldenGate, DataGuard, RAC, ASM & Exadata.
 - 🌱 I’m currently learning about RAC and ASM.
 - 💞️ I’m looking to collaborate on building DB's (Standalone and RAC) and setting up DataGuard.
-- 📫 How to reach me chandhan1995@gmail.com / https://www.linkedin.com/in/chandhansj/
+- 📫 You can reach out to me via chandhan1995@gmail.com / https://www.linkedin.com/in/chandhansj/
 
 <!---
 SJChandhan/SJChandhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
